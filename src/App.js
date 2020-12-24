@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import Row from './row'
+import Row from './Row'
 import requests from './requests'
 
 function App() {

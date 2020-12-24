@@ -1,4 +1,4 @@
-const APIKEY = '3c4925d6c5bbd90119f13bee4186442e'
+const API_KEY = '3c4925d6c5bbd90119f13bee4186442e'
 
 //API End Points
 const requests = {
